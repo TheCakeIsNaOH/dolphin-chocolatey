@@ -13,6 +13,10 @@ Dolphin is an emulator for running GameCube, Wii, and Triforce games on Windows,
 
 It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more!
 
+### Package specific
+
+Automatic updates on monday and thursday.
+
 #### Package Parameters
 The following package parameters can be set:
 
